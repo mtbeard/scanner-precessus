@@ -1,0 +1,32 @@
+# Rapports générés par le scanner
+*.html
+*.csv
+
+# Cache VirusTotal local (contient des données sensibles)
+cache-vt.json
+
+# Dossier de sortie complet (si cloné dans le même répertoire)
+ScannerEDR/
+
+# Fichiers de configuration avec clés API
+.env
+secrets.ps1
+config.local.ps1
+
+# Fichiers temporaires Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Fichiers PowerShell compilés ou modules locaux
+*.psm1
+*.psd1
+
+# Logs
+*.log
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
