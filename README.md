@@ -29,7 +29,7 @@ Script PowerShell d'analyse de sécurité des processus en cours d'exécution. I
 
 ```powershell
 # Cloner le dépôt
-git clone https://github.com/<ton-user>/scanner-processus.git
+git clone https://github.com/mtbeard/scanner-processus.git
 cd scanner-processus
 ```
 
